@@ -14,7 +14,7 @@ You may also quick try the example project with
 **Library requires target iOS 7.0 and above**
 
 <h3 align="left">
-  <img src="https://github.com/shuhrat10/STAlertView/blob/master/Screenshots/demo.gif" alt="Demo" width="240"/>
+  <img src="https://github.com/shuhrat10/STAlertView/blob/master/Screenshots/demo.gif" alt="Demo" width="300"/>
 </h3>
 
 ## Usage and Customization
