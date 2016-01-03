@@ -3,7 +3,7 @@
 **STAlertView** is the new **wonderful** alert kind of View. It was also designed to cover user’s needs during customization. Created with **delightful combination**, **STAlertView** improves your user experience.
 
 ## Installation
-There are two ways to add the **JTAlertView** library to your project. Add it as a regular library or install it through CocoaPods.
+There are two ways to add the **STAlertView** library to your project. Add it as a regular library or install it through CocoaPods.
 
 `pod 'STAlertView'`
 
